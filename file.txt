@@ -1,0 +1,11 @@
+===============ISI BERITA===============
+Korban luka akibat gempa bumi berkekuatan Magnitudo 6,3 yang mengguncang Jepang bertambah menjadi 
+sembilan orang, dan tidak ada laporan korban tewas. Gempa bumi ini memicu longsor pada ruas jalan 
+raya nasional, menyebabkan kerusakan pada saluran pipa air dan menumbangkan tiang lampu jalanan.
+
+===============Kata Unik pada Isi Berita===============
+['Korban', 'luka', 'akibat', 'gempa', 'bumi', 'berkekuatan', 'Magnitudo', '6,3', 'yang', 'mengguncang', 'Jepang', 'bertambah']
+['menjadi', 'sembilan', 'orang,', 'dan', 'tidak', 'ada', 'laporan', 'korban', 'tewas.', 'Gempa', 'bumi', 'ini']
+['memicu', 'longsor', 'pada', 'ruas', 'jalan', 'raya', 'nasional,', 'menyebabkan', 'kerusakan', 'pada', 'saluran', 'pipa']
+['air', 'dan', 'menumbangkan', 'tiang', 'lampu', 'jalanan.']
+
